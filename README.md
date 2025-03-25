@@ -11,4 +11,4 @@ Our goal is to provide seamless, trustless crypto investment solutions.
 - [ ] Testnet deployment  
 
 ## Get Involved  
-Follow updates on **[Twitter](https://twitter.com/Indexr_XYZ)**  
+Follow updates on **[X](https://x.com/Indexr_XYZ)**  
