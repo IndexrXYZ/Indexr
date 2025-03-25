@@ -2,9 +2,14 @@
 
 All notable changes to Indexr will be documented here.
 
+## [March 22, 2025]
+- Finalized Core Smart Contract v5 with TWAP + slippage controls
+- Backend fully integrated with fund creation + price feeds
+- All components hardened for testnet
+
 ---
 
-## [March 22, 2025]
+## [March 20, 2025]
 - Added GitHub Action for weekly heartbeat commits
 - Fixed nested folder structure in repo
 - Created public `README.md` with clear project breakdown
@@ -17,8 +22,3 @@ All notable changes to Indexr will be documented here.
 - Started work on frontend integration
 
 --
-
-## [March 22, 2025]
-- Finalized Core Smart Contract v5 with TWAP + slippage controls
-- Backend fully integrated with fund creation + price feeds
-- All components hardened for testnet
