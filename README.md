@@ -5,10 +5,10 @@ Indexr is building decentralized, AI-powered crypto index funds that automate po
 Our goal is to provide seamless, trustless crypto investment solutions.  
 
 ## Development Progress  
-- [ ] Smart contract architecture  
-- [ ] Index fund rebalancing logic  
+- [X] Smart contract architecture  
+- [X] Index fund rebalancing logic  
 - [ ] Frontend UI  
-- [ ] Testnet deployment  
+- [X] Testnet deployment  
 
 ## Get Involved  
 Follow updates on **[X](https://x.com/Indexr_XYZ)**  
