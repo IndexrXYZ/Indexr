@@ -36,5 +36,3 @@ All notable changes to Indexr will be documented here.
 - Finalized MVP version of Indexr Smart Contract
 - Simplified rebalancing logic
 - Started work on frontend integration
-
---
