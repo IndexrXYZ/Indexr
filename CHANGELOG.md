@@ -5,12 +5,18 @@ All notable changes to Indexr will be documented here.
 ## [April 1, 2025]
 - Social channels updated with build-in-public threads
 
+---
+
 ## [March 31, 2025]
 - MVP deployed to Arbitrum Sepolia Testnet
 - TWAP logic + Chainlink integration confirmed working
 
+---
+
 ## [March 23, 2025]
 - Indexr Web3 Portfolio now linked via Google Drive
+
+---
 
 ## [March 22, 2025]
 - Finalized Core Smart Contract v5 with TWAP + slippage controls
