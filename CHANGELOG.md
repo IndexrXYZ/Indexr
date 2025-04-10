@@ -2,6 +2,16 @@
 
 All notable changes to Indexr will be documented here.
 
+## [April 10, 2025]
+- Implementing the code changes I wanted to make to Indexr's fund offerings, planning to manually update the backend code this evening with the changes
+
+---
+
+## [April 9, 2025]
+- Tightened the branding, repurposed the logo and cover banner for X, Notion, Linkedin accounts to improve how the brand looks to new users at first glance.
+
+---
+
 ## [April 1, 2025]
 - Social channels updated with build-in-public threads
 
