@@ -2,6 +2,22 @@
 
 All notable changes to Indexr will be documented here.
 
+## [June 16, 2025]
+- Complete overhaul of the Indexr website UX and UI
+- Fund cards redesigned with smoother pie chart animations
+- Improved fund categorization and filtering (Classic, Thematic, Specialty)
+- Refined and restructured all page copy (Hero, About, Legal, Pricing, etc.)
+- Legal disclaimers added (Beta, Non-Financial Advice, Geographic Restrictions)
+- "Get Early Access" waitlist flow implemented via Supabase
+- Beta dashboard gated behind wallet connection and access approval
+- Integrated ThirdWeb for wallet connection and dashboard auth
+- Testnet dashboard deployed with real-time rebalancing + fund stats
+- Set up Supabase email onboarding + connected contact form
+- Enhanced scroll-based animations for smoother first user experience
+- Prepared updated infographics and screenshots for public content rollout
+
+---
+
 ## [April 10, 2025]
 - Implementing the code changes I wanted to make to Indexr's fund offerings, planning to manually update the backend code this evening with the changes
 
