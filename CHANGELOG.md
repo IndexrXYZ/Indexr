@@ -2,6 +2,14 @@
 
 All notable changes to Indexr will be documented here.
 
+## [June 21, 2025]
+- Integrated initial smart contract functions: `depositETH`, `withdraw`, and `approve`
+- Refactored `INDEX_FUND_ABI` to support ETH deposits and USDC approval flow
+- Connected `SellModal` scaffold to new withdraw() logic in preparation for real selling
+- Verified `Thirdweb` config with working client ID setup
+
+---
+
 ## [June 16, 2025]
 - Complete overhaul of the Indexr website UX and UI
 - Fund cards redesigned with smoother pie chart animations
