@@ -6,13 +6,13 @@ All major updates and improvements to Indexr will be listed here.
 
 ## [June 24, 2025]
 
-- ✅ **Indexr MVP is fully functional** — all investment flows now work using real smart contracts on Arbitrum Sepolia Testnet
-- 💳 You can now invest with **USDC, ETH, or Fiat (card)** — including one-time and **recurring purchases**
+- ✅ **Indexr MVP is fully functional** - all investment flows now work using real smart contracts on Arbitrum Sepolia Testnet
+- 💳 You can now invest with **USDC, ETH, or Fiat (card)**, including one-time and **recurring purchases**
 - 🔁 **Recurring investments now supported** using Stripe + EchoPay (weekly/monthly options)
-- 🧠 Connected the dashboard to our **live smart contracts** — no more mock data
+- 🧠 Connected the dashboard to our **live smart contracts** - no more mock data
 - 📈 The “My Portfolio” page now shows **real fund balances**, **cash holdings**, and an animated **pie chart breakdown**
-- 💸 **Sell button now works** — connected to the blockchain, with error handling and success messages
-- 🔒 Fully set up the backend with Supabase — including recurring investment database, secure edge functions, and Stripe webhooks
+- 💸 **Sell button now works** - connected to the blockchain, with error handling and success messages
+- 🔒 Fully set up the backend with Supabase, including recurring investment database, secure edge functions, and Stripe webhooks
 - 🧪 Improved all transaction error messages, loading states, and confirmation toasts for a smoother experience
 
 ---
@@ -21,7 +21,7 @@ All major updates and improvements to Indexr will be listed here.
 
 - 🎨 Complete design overhaul of the Indexr site and dashboard
 - 🧭 Fund cards now include smooth pie chart animations and new filters (Classic, Thematic, Specialty)
-- 🖋️ Refined every word of copy — from hero section to pricing, legal disclaimers, and onboarding
+- 🖋️ Refined every word of copy, from hero section to pricing, legal disclaimers, and onboarding
 - 🧾 Added legal notices for Beta status, non-financial advice, and geographic restrictions
 - 📨 Early Access waitlist now fully working (via Supabase)
 - 🔐 Dashboard access is gated by wallet connection and waitlist approval
