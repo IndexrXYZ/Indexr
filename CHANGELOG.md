@@ -1,104 +1,85 @@
 # 📜 CHANGELOG
 
-All notable changes to Indexr will be documented here.
+All major updates and improvements to Indexr will be listed here.
+
 ---
 
 ## [June 24, 2025]
-- Replaced all mock data in `useUserPortfolio` with **live on-chain fund balances**
-- Added cash balance support and **percentage breakdown** logic
-- Connected portfolio view to pie chart component with dynamic token weights
-- Fully implemented `SellModal`:
-  - Now submits real `withdraw()` transactions
-  - Shows success/failure toasts and loading states
-- Final frontend polish:
-  - Transaction feedback system across all modals
-  - Improved balance validation and error handling
-- **Indexr MVP now fully functional on Arbitrum Sepolia**
 
----
-
-## [June 23, 2025]
-- Built Supabase table: `recurring_investments` with full schema, RLS, and indexes
-- Created `create-recurring-intent` edge function for EchoPay + Stripe integration
-- Set up test Stripe keys and webhook scaffolding
-- Added **frontend form support** for recurring investments (email, frequency, amount, fund, wallet)
-- Connected form to Supabase + Stripe for one-click recurring setup
-
----
-## [June 22, 2025]
-- Finalized **USDC token contract integration** on Arbitrum Sepolia
-- Implemented proper **allowance checks** and **auto-approval** logic before USDC deposits
-- Cleaned up currency selector in the investment modal
-- Rewrote Bridge.xyz links to dynamically inject connected wallet address
-- Standardized “Powered by” text across all investment methods
-
----
-
-## [June 21, 2025]
-- Integrated initial smart contract functions: `depositETH`, `withdraw`, and `approve`
-- Refactored `INDEX_FUND_ABI` to support ETH deposits and USDC approval flow
-- Connected `SellModal` scaffold to new withdraw() logic in preparation for real selling
-- Verified `Thirdweb` config with working client ID setup
+- ✅ **Indexr MVP is fully functional** — all investment flows now work using real smart contracts on Arbitrum Sepolia Testnet
+- 💳 You can now invest with **USDC, ETH, or Fiat (card)** — including one-time and **recurring purchases**
+- 🔁 **Recurring investments now supported** using Stripe + EchoPay (weekly/monthly options)
+- 🧠 Connected the dashboard to our **live smart contracts** — no more mock data
+- 📈 The “My Portfolio” page now shows **real fund balances**, **cash holdings**, and an animated **pie chart breakdown**
+- 💸 **Sell button now works** — connected to the blockchain, with error handling and success messages
+- 🔒 Fully set up the backend with Supabase — including recurring investment database, secure edge functions, and Stripe webhooks
+- 🧪 Improved all transaction error messages, loading states, and confirmation toasts for a smoother experience
 
 ---
 
 ## [June 16, 2025]
-- Complete overhaul of the Indexr website UX and UI
-- Fund cards redesigned with smoother pie chart animations
-- Improved fund categorization and filtering (Classic, Thematic, Specialty)
-- Refined and restructured all page copy (Hero, About, Legal, Pricing, etc.)
-- Legal disclaimers added (Beta, Non-Financial Advice, Geographic Restrictions)
-- "Get Early Access" waitlist flow implemented via Supabase
-- Beta dashboard gated behind wallet connection and access approval
-- Integrated ThirdWeb for wallet connection and dashboard auth
-- Testnet dashboard deployed with real-time rebalancing + fund stats
-- Set up Supabase email onboarding + connected contact form
-- Enhanced scroll-based animations for smoother first user experience
-- Prepared updated infographics and screenshots for public content rollout
+
+- 🎨 Complete design overhaul of the Indexr site and dashboard
+- 🧭 Fund cards now include smooth pie chart animations and new filters (Classic, Thematic, Specialty)
+- 🖋️ Refined every word of copy — from hero section to pricing, legal disclaimers, and onboarding
+- 🧾 Added legal notices for Beta status, non-financial advice, and geographic restrictions
+- 📨 Early Access waitlist now fully working (via Supabase)
+- 🔐 Dashboard access is gated by wallet connection and waitlist approval
+- 👛 Integrated Thirdweb for wallet login and dashboard access
+- 📊 Dashboard connected to live testnet data (rebalancing + fund performance)
+- 📷 New screenshots and graphics ready for social posts and public launch
 
 ---
 
 ## [April 10, 2025]
-- Implementing the code changes I wanted to make to Indexr's fund offerings, planning to manually update the backend code this evening with the changes
+
+- Reworked Indexr fund lineup and planned manual backend updates to match new fund types
 
 ---
 
 ## [April 9, 2025]
-- Tightened the branding, repurposed the logo and cover banner for X, Notion, Linkedin accounts to improve how the brand looks to new users at first glance.
+
+- Tightened Indexr branding — uploaded refreshed logo and social covers across X, Notion, and LinkedIn
 
 ---
 
 ## [April 1, 2025]
-- Social channels updated with build-in-public threads
+
+- Posted new build-in-public threads across social media
 
 ---
 
 ## [March 31, 2025]
-- MVP deployed to Arbitrum Sepolia Testnet
-- TWAP logic + Chainlink integration confirmed working
+
+- Launched Indexr MVP to Arbitrum Sepolia Testnet
+- Chainlink price feeds and TWAP logic confirmed working
 
 ---
 
 ## [March 23, 2025]
-- Indexr Web3 Portfolio now linked via Google Drive
+
+- Published Indexr Web3 Portfolio progress via Google Drive for early access reviewers
 
 ---
 
 ## [March 22, 2025]
-- Finalized Core Smart Contract v5 with TWAP + slippage controls
-- Backend fully integrated with fund creation + price feeds
-- All components hardened for testnet
+
+- Finalized Smart Contract v5 with slippage controls and TWAP
+- Backend now supports fund creation + live price feeds
+- All components ready for testnet launch
 
 ---
 
 ## [March 20, 2025]
-- Added GitHub Action for weekly heartbeat commits
-- Fixed nested folder structure in repo
-- Created public `README.md` with clear project breakdown
+
+- Set up GitHub Action for weekly commits
+- Cleaned up repo folder structure
+- Added public `README.md` with clear breakdown
 
 ---
 
 ## [March 15, 2025]
-- Finalized MVP version of Indexr Smart Contract
-- Simplified rebalancing logic
-- Started work on frontend integration
+
+- Deployed first working version of the Indexr Smart Contract
+- Simplified fund rebalancing logic
+- Began frontend integration
