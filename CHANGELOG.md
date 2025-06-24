@@ -3,6 +3,20 @@
 All notable changes to Indexr will be documented here.
 ---
 
+## [June 24, 2025]
+- Replaced all mock data in `useUserPortfolio` with **live on-chain fund balances**
+- Added cash balance support and **percentage breakdown** logic
+- Connected portfolio view to pie chart component with dynamic token weights
+- Fully implemented `SellModal`:
+  - Now submits real `withdraw()` transactions
+  - Shows success/failure toasts and loading states
+- Final frontend polish:
+  - Transaction feedback system across all modals
+  - Improved balance validation and error handling
+- **Indexr MVP now fully functional on Arbitrum Sepolia**
+
+---
+
 ## [June 23, 2025]
 - Built Supabase table: `recurring_investments` with full schema, RLS, and indexes
 - Created `create-recurring-intent` edge function for EchoPay + Stripe integration
