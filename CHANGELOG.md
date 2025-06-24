@@ -1,6 +1,16 @@
 # 📜 CHANGELOG
 
 All notable changes to Indexr will be documented here.
+---
+
+## [June 22, 2025]
+- Finalized **USDC token contract integration** on Arbitrum Sepolia
+- Implemented proper **allowance checks** and **auto-approval** logic before USDC deposits
+- Cleaned up currency selector in the investment modal
+- Rewrote Bridge.xyz links to dynamically inject connected wallet address
+- Standardized “Powered by” text across all investment methods
+
+---
 
 ## [June 21, 2025]
 - Integrated initial smart contract functions: `depositETH`, `withdraw`, and `approve`
