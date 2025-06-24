@@ -3,6 +3,14 @@
 All notable changes to Indexr will be documented here.
 ---
 
+## [June 23, 2025]
+- Built Supabase table: `recurring_investments` with full schema, RLS, and indexes
+- Created `create-recurring-intent` edge function for EchoPay + Stripe integration
+- Set up test Stripe keys and webhook scaffolding
+- Added **frontend form support** for recurring investments (email, frequency, amount, fund, wallet)
+- Connected form to Supabase + Stripe for one-click recurring setup
+
+---
 ## [June 22, 2025]
 - Finalized **USDC token contract integration** on Arbitrum Sepolia
 - Implemented proper **allowance checks** and **auto-approval** logic before USDC deposits
