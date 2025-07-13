@@ -45,3 +45,7 @@ Our mission is simple: remove the chaos from crypto investing and replace it wit
 - **Framer / Next.js** (frontend UI)
 - **OpenManus-RL + ChatGPT/DeepSeek/Claude/Grok/Gemini** (AI agent models)
 - **Uniswap / 1inch** (on-chain execution + slippage protection)
+
+## AI Signals Engine 
+
+Proprietary Software, tbc
