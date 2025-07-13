@@ -15,3 +15,5 @@
 ### Phase 3 – Expansion
 - More funds (RWA, Gaming, Privacy)
 - Launch on Base + more L2s
+
+**All subject to change
