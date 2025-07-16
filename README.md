@@ -24,7 +24,7 @@ Our mission is simple: remove the chaos from crypto investing and replace it wit
 - [x] AI Signals Engine v1 (multi-agent, scored weighting)
 - [x] Testnet Deployment (Arbitrum Sepolia)
 - [x] Index Fund logic (ERC-4626 + AI integration)
-- [ ] Frontend Dashboard (Next.js + Framer + Lovable + Cursor)
+- [x] Frontend Dashboard (Next.js + Framer + Lovable + Cursor)
 - [ ] Mainnet-ready audit prep
 
 ---
