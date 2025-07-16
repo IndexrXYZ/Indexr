@@ -47,5 +47,7 @@ Our mission is simple: remove the chaos from crypto investing and replace it wit
 - **Uniswap / 1inch** (on-chain execution + slippage protection)
 
 ## AI Signals Engine 
+## EchoPay: Direct Debits for DeFi
+SDK/API availability coming soon
 
 Proprietary Software, tbc
