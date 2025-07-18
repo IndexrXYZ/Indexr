@@ -67,7 +67,7 @@ Indexr’s proprietary **AI Signals Engine** takes live data including wallet fl
 ## 🔄 EchoPay: Recurring DeFi
 
 Coming soon:  
-**EchoPay SDK & API** — enabling programmable direct debits and recurring investments in DeFi.  
+**EchoPay SDK & API** - enabling programmable direct debits and recurring investments in DeFi.  
 Think: Stripe for crypto portfolios.
 
 ---
