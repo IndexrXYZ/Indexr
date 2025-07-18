@@ -1,5 +1,5 @@
 # Indexr  
-**AI-Powered Crypto Index Funds — Invest with structure, not speculation.**
+**AI-Powered Crypto Index Funds - Invest with structure, not speculation.**
 
 Indexr is building the **Vanguard of Web3**: a new way to invest in crypto through AI-driven, decentralized index funds that automate token selection, portfolio rebalancing, and on-chain execution.
 
@@ -12,7 +12,7 @@ Our mission is simple: remove the chaos from crypto investing and replace it wit
 ## 🛠️ What We're Building
 
 - **Core Funds**  
-  Static, market-cap weighted portfolios (e.g. `INDXR-10`, `INDXR-DFI`, `INDXR-FF`)
+  Static, market-cap weighted portfolios (e.g. `INDXR-10`, `INDXR-DFI`, `INDXR-AI`)
 
 - **Prime Funds**  
   Dynamic, AI-weighted portfolios that respond to on-chain data, sentiment, wallet flows, and macro trends
@@ -60,7 +60,7 @@ Our mission is simple: remove the chaos from crypto investing and replace it wit
 
 ## 🧠 AI Signals Engine
 
-Indexr’s proprietary **AI Signals Engine** ingests live data — including wallet flows, social sentiment, on-chain volume, and macro factors — and scores tokens using modular AI agents. This signal determines how each Prime Fund rebalances in real time.
+Indexr’s proprietary **AI Signals Engine** takes live data including wallet flows, social sentiment, on-chain volume, and macro factors - and scores tokens using modular AI agents. This signal determines how each Prime Fund rebalances in real time.
 
 ---
 
