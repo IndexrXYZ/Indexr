@@ -1,20 +1,27 @@
 # Indexr  
-**AI-Powered Crypto Index Funds. Invest with structure, not speculation.**
+**AI-Powered Crypto Index Funds — Invest with structure, not speculation.**
 
-Indexr is building the **Vanguard of Web3** - AI-driven, decentralized index funds that automate token selection, portfolio rebalancing, and execution.
+Indexr is building the **Vanguard of Web3**: a new way to invest in crypto through AI-driven, decentralized index funds that automate token selection, portfolio rebalancing, and on-chain execution.
 
-Our mission is simple: remove the chaos from crypto investing and replace it with clarity, automation, and long-term structure.
+Our mission is simple: remove the chaos from crypto investing and replace it with structure, clarity, and long-term thinking.
 
-> **Live now on Arbitrum Sepolia Testnet** – iterating with early users
+> 🧪 **Live now on Arbitrum Sepolia Testnet** – iterating with early users
 
 ---
 
 ## 🛠️ What We're Building
 
-- **Core Funds**: Static, market-cap weighted portfolios (e.g. INDXR-10, INDXR-DFI)
-- **Prime Funds**: AI-weighted portfolios that respond to on-chain data, sentiment, wallet flows, and macro trends
-- **Smart Contracts**: ERC-4626-style vaults built in Solidity, supporting secure deposits, redemptions, and rebalances
-- **AI Signals Engine**: A modular multi-agent system using DeepSeek, OpenManus-RL, and real-time data to power dynamic rebalancing
+- **Core Funds**  
+  Static, market-cap weighted portfolios (e.g. `INDXR-10`, `INDXR-DFI`, `INDXR-FF`)
+
+- **Prime Funds**  
+  Dynamic, AI-weighted portfolios that respond to on-chain data, sentiment, wallet flows, and macro trends
+
+- **Smart Contracts**  
+  ERC-4626-style vaults in Solidity, supporting secure deposits, redemptions, and AI-driven rebalances
+
+- **AI Signals Engine**  
+  Modular multi-agent system (OpenManus-RL + DeepSeek + live data) powering dynamic fund logic
 
 ---
 
@@ -22,32 +29,48 @@ Our mission is simple: remove the chaos from crypto investing and replace it wit
 
 - [x] Core smart contracts (Solidity + Hardhat)
 - [x] AI Signals Engine v1 (multi-agent, scored weighting)
-- [x] Testnet Deployment (Arbitrum Sepolia)
-- [x] Index Fund logic (ERC-4626 + AI integration)
-- [x] Frontend Dashboard (Next.js + Framer + Lovable + Cursor)
-- [ ] Mainnet-ready audit prep
+- [x] Testnet deployment (Arbitrum Sepolia)
+- [x] Fund logic: ERC-4626 vaults + AI hooks
+- [x] Frontend dashboard (Next.js + Framer + Lovable)
+- [ ] Mainnet audit prep
+- [ ] EchoPay SDK (recurring DeFi payments)
 
 ---
 
 ## 🔗 Get Involved
 
-- Follow progress: [@IndexrXYZ on X](https://x.com/IndexrXYZ)  
-- Join the waitlist: [indexr.lovable.app](https://indexr.lovable.app)  
-- Explore the code: [Indexr Core Contracts](https://github.com/IndexrXYZ)
+- X/Twitter: [@IndexrXYZ](https://x.com/IndexrXYZ)
+- Join the waitlist: [indexr.lovable.app](https://indexr.lovable.app)
+- Explore the repo: [Indexr Core Contracts](https://github.com/IndexrXYZ)
 
 ---
 
-## 🧠 Built With
+## 🧠 Tech Stack
 
-- **Solidity** (smart contracts, ERC-4626 logic)
-- **Arbitrum** (low-cost, high-throughput L2)
-- **Node.js + MongoDB** (backend infra)
-- **Framer / Next.js** (frontend UI)
-- **OpenManus-RL + ChatGPT/DeepSeek/Claude/Grok/Gemini** (AI agent models)
-- **Uniswap / 1inch** (on-chain execution + slippage protection)
+| Layer             | Tools & Frameworks |
+|------------------|--------------------|
+| Smart Contracts  | Solidity, ERC-4626, Hardhat |
+| Network          | Arbitrum Sepolia (L2 testnet) |
+| Frontend         | Framer, Next.js, Lovable |
+| Backend          | Node.js, MongoDB |
+| AI Engine        | OpenManus-RL, DeepSeek, Claude, ChatGPT |
+| On-chain Trading | Uniswap, 1inch |
 
-## AI Signals Engine 
-Proprietary Software that rebalances index funds in real time in accordance to live signals, powered by AI agents
+---
 
-## EchoPay: Direct Debits for DeFi
-SDK/API availability coming soon
+## 🧠 AI Signals Engine
+
+Indexr’s proprietary **AI Signals Engine** ingests live data — including wallet flows, social sentiment, on-chain volume, and macro factors — and scores tokens using modular AI agents. This signal determines how each Prime Fund rebalances in real time.
+
+---
+
+## 🔄 EchoPay: Recurring DeFi
+
+Coming soon:  
+**EchoPay SDK & API** — enabling programmable direct debits and recurring investments in DeFi.  
+Think: Stripe for crypto portfolios.
+
+---
+
+## 👋 Built by a solo founder.  
+Always building. Always improving.  
