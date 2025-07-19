@@ -72,5 +72,5 @@ Think: Stripe for crypto portfolios.
 
 ---
 
-## 👋 Built by a solo founder.  
+## 👋 Built by a Solo Founder.  
 Always building. Always improving.  
