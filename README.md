@@ -39,7 +39,7 @@ Our mission is simple: remove the chaos from crypto investing and replace it wit
 
 ## 🔗 Get Involved
 
-- X/Twitter: [@IndexrXYZ](https://x.com/IndexrXYZ)
+- X/Twitter: [@Indexr_XYZ](https://x.com/Indexr_XYZ)
 - Join the waitlist: [indexr.lovable.app](https://indexr.lovable.app)
 - Explore the repo: [Indexr Core Contracts](https://github.com/IndexrXYZ)
 
