@@ -6,7 +6,7 @@ All major updates and improvements to Indexr will be listed here.
 
 - Changes pending but it's coming, don't worry
 
---
+---
 
 ## [July 21, 2025]
 - Blog Post Update
