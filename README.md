@@ -11,7 +11,7 @@ Our mission is simple: **bring calm and clarity to crypto investing** - replacin
 
 ## 🧪 Live Now
 Testnet: **Arbitrum Sepolia**  
-Status: **Open Beta — iterating with early users**
+Status: **Open Beta - iterating with early users**
 
 ---
 
