@@ -76,6 +76,7 @@ Status: **Open Beta - iterating with early users**
 - Weekly or monthly investments
 - Pay with **ETH, USDC, or fiat**
 - Powered by Stripe, EchoPay, and Bridge
+- Seperate Repo with more details coming soon
 
 ---
 
