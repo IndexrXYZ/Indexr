@@ -1,6 +1,6 @@
 # Indexr
 
-**AI-Powered Crypto Index Funds**  
+**AI-Powered Crypto Index Funds.**  
 _Invest with structure, not speculation._
 
 Indexr is building the **Vanguard of Web3** - a decentralized platform for AI-powered crypto index funds that automate token selection, rebalancing, and on-chain execution.
