@@ -73,10 +73,10 @@ Status: **Open Beta - iterating with early users**
 
 > Programmable direct debits for crypto.
 
-- Weekly or monthly investments
+- Weekly or monthly investments.
 - Pay with **ETH, USDC, or fiat**
 - Powered by Stripe, EchoPay, and Bridge.
-- Seperate Repo with more details coming soon
+- Seperate Repo with more details coming soon.
 
 ---
 
