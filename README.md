@@ -3,7 +3,7 @@
 **AI-Powered Crypto Index Funds.**  
 _Invest with structure, not speculation._
 
-Indexr is building the **Vanguard of Web3** - a decentralized platform for AI-powered crypto index funds that automate token selection, rebalancing, and on-chain execution.
+Indexr is building the **Vanguard for Crypto** - a decentralized platform for AI-powered crypto index funds that automate token selection, rebalancing, and on-chain execution.
 
 Our mission is simple: **bring calm and clarity to crypto investing** - replacing chaos with long-term structure.
 
