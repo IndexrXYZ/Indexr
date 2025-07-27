@@ -81,5 +81,11 @@ Status: **Open Beta - iterating with early users**
 
 ---
 
+## Partnerships
+
+- Part of the Hedera Headstarter Ecosystem
+
+---
+
 ## 👋 Built by a Solo Founder  
 Always building. Always improving.
