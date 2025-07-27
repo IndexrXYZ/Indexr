@@ -30,8 +30,9 @@ Status: **Open Beta - iterating with early users**
 • Secure deposits, redemptions, and automated rebalances
 
 ### AI Signals Engine  
-> Modular multi-agent scoring (OpenManus-RL + DeepSeek)  
+> Modular multi-agent scoring
 • Uses live data to adjust fund logic in real time
+• Quant Firm level analytics powering our AI tech for optimal rebalancing
 
 ---
 
