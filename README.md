@@ -60,7 +60,7 @@ Status: **Open Beta - iterating with early users**
 ## 🧠 Tech Stack
 
 | Layer              | Tools & Frameworks                                 |
-|-------------------|-----------------------------------------------------|
+|------------------- |----------------------------------------------------|
 | Smart Contracts    | Solidity · Hardhat · ERC-4626                      |
 | Network            | Arbitrum Sepolia (L2 testnet)                      |
 | Frontend           | Framer · Next.js · Lovable                         |
