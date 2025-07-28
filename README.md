@@ -88,4 +88,5 @@ Status: **Open Beta - iterating with early users**
 ---
 
 ## 👋 Built by a Solo Founder  
+A DevOps Engineer with a background in Private Equity and over 5+ years in Sales working at some of the biggest companies in the world.
 Always building. Always improving.
