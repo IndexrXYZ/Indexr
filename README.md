@@ -46,7 +46,7 @@ Status: **Open Beta - iterating with early users**
 - ✅ Chainlink price feed integration
 - ✅ EchoPay SDK for recurring DeFi payments (Stripe + Bridge)
 - 🔒 Mainnet audit preparation underway
-- 🔒 Cross-Chain: Arbitrum 
+- 🔒 Cross-Chain: Arbitrum, Hedera
 
 ---
 
