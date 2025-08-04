@@ -7,6 +7,7 @@ Indexr is building **Vanguard for Crypto** - a decentralized platform for AI-pow
 
 Our mission is simple: **bring calm and clarity to crypto investing** - replacing chaos with long-term structure.
 
+
 ---
 
 ## 🧪 Live Now
