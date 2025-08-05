@@ -36,6 +36,8 @@ Our lineup includes Classic (Top 10/20/50), Thematic (AI, DeFi, L1s), and Specia
 • Uses live data to adjust fund logic in real time
 • Quant Firm level analytics powering our AI tech for optimal rebalancing
 
+Indexr’s AI Signals Engine is like an intelligent brain that watches the market 24/7. It scores tokens based on sentiment, wallet flows, trading volume, and more — then adjusts fund weights accordingly, all on-chain
+
 ---
 
 ## ✅ Development Progress
