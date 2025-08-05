@@ -17,6 +17,8 @@ Status: **Open Beta - Iterating with early users**
 
 ## 🛠️ What We're Building
 
+Our lineup includes Classic (Top 10/20/50), Thematic (AI, DeFi, L1s), and Specialty Funds (Bear Market, Founder Picks, Emerging Projects).
+
 ### Core Funds  
 > Market-cap weighted portfolios  
 • INDXR-10 · INDXR-DFI · INDXR-AI
