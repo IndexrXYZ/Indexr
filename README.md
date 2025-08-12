@@ -4,7 +4,7 @@
 _Invest with structure, not speculation._ 
 
 Indexr is building **Vanguard for Crypto** - a decentralized platform for AI-powered crypto index funds that automate token selection, rebalancing, and on-chain execution.
-
+ 
 Our mission is simple: **bring calm and clarity to crypto investing** - replacing chaos with long-term structure.
 
 ---
