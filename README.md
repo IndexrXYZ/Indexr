@@ -88,7 +88,7 @@ Indexr’s AI Signals Engine is like an intelligent brain that watches the marke
 
 ## Partnerships
 
-- Part of the Hedera Headstarter Ecosystem
+- Part of the Hedera Headstarter Ecosystem 
 
 ---
 
