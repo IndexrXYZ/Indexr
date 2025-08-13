@@ -21,7 +21,7 @@ Our lineup includes Classic (Top 10/20/50), Thematic (AI, DeFi, L1s), and Specia
 
 ### Core Funds  
 > Market-cap weighted portfolios  
-• INDXR-10 · INDXR-DFI · INDXR-AI
+• INDXR-10 · INDXR-DFI · INDXR-AI 
 
 ### Prime Funds  
 > AI-weighted portfolios powered by live data and signals  
