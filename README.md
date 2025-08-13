@@ -94,4 +94,4 @@ Indexr’s AI Signals Engine is like an intelligent brain that watches the marke
 
 ## 👋 Built by a Solo Founder  
 A DevOps Engineer with a background in Private Equity and over 5+ years in Sales working at some of the biggest companies in the world. 
-Always building. Always improving.
+Always building. Always improving. 
