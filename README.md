@@ -1,4 +1,4 @@
-# Indexr   
+# Indexr    
 
 **AI-Powered Crypto Index Funds.**     
 _Invest with structure, not speculation._ 
