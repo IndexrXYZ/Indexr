@@ -1,4 +1,4 @@
-# 🗺️ Indexr Roadmap
+# 🗺️ Indexr Roadmap 
 
 ### Phase 1 – Testnet Live ✅ 
 - 6 index funds deployed (Core + Prime)
@@ -25,4 +25,5 @@
 ---
 
 🛠️ *All subject to change. Indexr is evolving with the market.*
+
 
