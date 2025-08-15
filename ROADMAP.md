@@ -1,6 +1,6 @@
 # 🗺️ Indexr Roadmap 
 
-### Phase 1 – Testnet Live ✅ 
+### Phase 1 – Testnet Live ✅  
 - 6 index funds deployed (Core + Prime)
 - Smart contracts + AI engine functional
 - Dashboard beta: wallet connection + live tracking
@@ -25,5 +25,6 @@
 ---
 
 🛠️ *All subject to change. Indexr is evolving with the market.*
+
 
 
