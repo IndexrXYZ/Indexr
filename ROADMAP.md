@@ -8,7 +8,7 @@
 
 ---
 
-### Phase 2 – Mainnet Launch 🔜
+### Phase 2 – Mainnet Launch 🔜 
 - Smart contract audit (pending)
 - Launch on Arbitrum Mainnet
 - Public dashboard release
@@ -25,6 +25,7 @@
 ---
 
 🛠️ *All subject to change. Indexr is evolving with the market.*
+
 
 
 
